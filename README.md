@@ -1,6 +1,6 @@
 # debt_tracker
 
-Foobar is a Python library for dealing with word pluralization.
+Debt_tracker brief intro
 
 ## Installation
 
