@@ -2,6 +2,8 @@
 
 Debt_tracker brief intro
 
+This tool serves as a resource that assists individuals and businesses in overseeing and controlling your debts efficiently.
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
