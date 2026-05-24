@@ -1,3 +1,7 @@
+# Debt Tracker
+
+An application that is used to track the debts of the user.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
